@@ -1,0 +1,25 @@
+{
+  "plants": [
+    {
+      "id": "1",
+      "name": "Aloe",
+      "image": "/images/plant1.jpg",
+      "price": 500,
+      "soldOut": true
+    },
+    {
+      "id": "2",
+      "name": "ZZ Plant",
+      "image": "/images/plant2.jpg",
+      "price": 700,
+      "soldOut": false
+    },
+    {
+      "id": "3755",
+      "name": "Kilima",
+      "image": "/images/plant2.jpg",
+      "price": 78.9,
+      "soldOut": true
+    }
+  ]
+}
